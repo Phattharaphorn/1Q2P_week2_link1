@@ -7,7 +7,7 @@ int main()
 	int i = 1;
 	int row = 10;
 	while (i <= row) {
-		for (a = row; a >= i; a--) {e
+		for (a = row; a >= i; a--) 
 			printf("*");
 		}
 		for (b = 1; b <= i; b++) {
